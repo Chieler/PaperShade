@@ -14,7 +14,7 @@ Papershade is a macOS menu-bar app that gives every display a warm, matte paper-
 
 ## Download and install
 
-1. **[Download Papershade.dmg](https://github.com/Chieler/KindleVue/raw/main/Papershade.dmg)**
+1. **[Download Papershade.dmg](https://github.com/Chieler/PaperShade/raw/main/Papershade.dmg)**
 2. Open the downloaded DMG.
 3. Drag `Papershade.app` to the `Applications` folder.
 4. Open **Papershade** from Applications, Launchpad, or Spotlight.
