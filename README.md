@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PapershadeIcon.png" width="160" alt="Papershade app icon">
+  <img src="Papershade.png" width="160" alt="Papershade app icon">
 </p>
 
 # Papershade
@@ -19,6 +19,6 @@ Papershade is a macOS menu-bar app that gives every display a warm, matte paper-
 3. Drag `Papershade.app` to the `Applications` folder.
 4. Open **Papershade** from Applications, Launchpad, or Spotlight.
 
-It is signed and notarized by Apple, so it should open normally. The three waves in your menu bar mean it is running.
+It is signed and notarized by Apple, so it should open normally. The P icon in your menu bar means it is running.
 
 Click the menu-bar icon whenever you want to adjust the overlay's intensity, warmth, grain, or turn it off.
